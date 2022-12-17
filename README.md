@@ -2,17 +2,10 @@
 A healthy mind in a healthy body. Staying fit is incredibly important in maintaining your mental health. A lot of people around me complain about weight problem after Covid. You move less, and naturally, you gain weight. Weight is not just about looking good. There was a TV program about personal trainers gaining their weight before starting the training with their clients. The result was shocking. They all had health issues, but besides that, the trainers began to feel down. They started to have a depressing feeling, and many had problems with their family. In this era of the pandemic, mental health has become a severe issue. I believe that the first barrier to protect our soul is to build our physical body as hard as possible. That is the reason why I invented this web page. Through tracking your nutritional intake and simply following suggested quiet in-door workout, you will feel better. Your healthier body will give you the strength to overcome downside feelings which often come these days.
 <br/><br/><br/>
 
-## Award & Honor:
-  - First Runner-up from Hacking for Humanity : Health Systems of The New Normal
-  <div>
-    <img src="public/ReadMeImgs/award_winner.png" alt="winner_img" width="250px" height="auto">
-    <img src="public/ReadMeImgs/award_winner2.png" alt="winner_img" width="250px" height="auto">
-  </div><br/><br/><br/>
-
 ## Installation:
 1. Clone repository
 ```bash
-$ git clone https://github.com/jyon124/NuTrack.git
+$ git clone https://github.com/Archi24/NuTrack.git
 ```
 2. cd into project directory
 ```bash
