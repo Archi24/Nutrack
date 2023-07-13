@@ -49,10 +49,7 @@ https://rapidapi.com/marketplace
   - From the left corner of the submenu, user can update their account information, BMR or they can delete their account permanently.
 <br/><br/><br/>
 
-## Sample images:
-<div>
-  <img src="public/ReadMeImgs/mainpage.png" alt="mainpage" width="400px" height="auto">
-  <img src="public/ReadMeImgs/nutrition.png" alt="nutrition intake estimate page" width="400px" height="auto">
+
   <img src="public/ReadMeImgs/overview.png" alt="overview page" width="400px" height="auto">
   <img src="public/ReadMeImgs/nutrack-account.png" alt="account page" width="400px" height="auto">
   <img src="public/ReadMeImgs/nutrack-bmr.png" alt="BMR page" width="400px" height="auto">
